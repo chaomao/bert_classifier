@@ -1,0 +1,5 @@
+*.bin
+pretrain_model/chinese_roberta_wwm_ext_pytorch/pytorch_model.bin
+pretrain_model/chinese_bert_wwm_ext_pytorch/pytorch_model.bin
+pretrain_model/bert/pytorch_model.bin
+models/best_model.pkl
